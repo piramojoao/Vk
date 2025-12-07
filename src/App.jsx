@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 import WhatsAppButtons from './components/WhatsAppButtons'
 import './App.css'
 
-function App() {
+function App() { 
   return (
     <div className="App">
       <Header />
